@@ -1,16 +1,11 @@
-.title {
-  color: #ffffff;
-  text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
+:root{
+  --primary-color      :#FF6C00;
+  --secondary-color    :
+  --text-primary       :#303030;
+  --text-secondary     :#9DA4BD;
+
 }
 
-pre {
-  font-family: "Arial", "Helvetica", sans-serif;
-  color: #2a2a2a;
-  font-size: 16px;
-}
-
-pre::first-letter {
-  font-family: "Tahoma", serif;
-  font-size: 32px;
-  color: #f44336;
+body {
+  font-family: "OpenSans", sans-serif;
 }
